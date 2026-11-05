@@ -8,7 +8,6 @@ A simple machine learning project that predicts house prices based on **area, be
 mL02-house-prediction/
 ├── data/house_prices.csv    # 105 houses, 6 columns
 ├── main.ipynb               # Notebook with the full workflow
-├── main_code.txt            # All notebook code in one text file
 └── README.md
 ```
 
